@@ -11,5 +11,6 @@ X=0
 print(X)
 y=14
 print(y)
-print('hello world')
+t=0
+print(t)
 print('hola mundo')
